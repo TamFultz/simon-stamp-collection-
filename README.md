@@ -1,6 +1,8 @@
 Simon's Stamp Collection App
 ---
 
-# About Simon
+# About Simon's Stamps
 
-Stuff about Simon's stamps here...
+Simon has been collecting stamps since 1981. He has a wide variety of expensive and exotic Japanese stamps.
+
+New York Times raves that this is the best stamp collection of the ages!
